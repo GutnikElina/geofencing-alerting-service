@@ -1,1 +1,0 @@
-# geofencing-alerting-service
